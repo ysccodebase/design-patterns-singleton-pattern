@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "axijoJAflXoewnN3en2+VbCuCkcwLZ1qZUFJPJ8Ze0MaCPrivS06wMPIvxvJeTo7NOx5LnbxLdRKyItcN1u7QA==",
+  "dgSpecHash": "FiyR3N5I9oYCxqIYftFWAiFqLpa+XDOd6YS4OTBve6lPv+/taN44w9dGoj7iGWKFiLFowCJdWG9PxVs8OEiAYQ==",
   "success": true,
-  "projectFilePath": "D:\\mydotnetproject\\designPatterns\\Singleton\\DesignPattern\\DesignPattern.csproj",
+  "projectFilePath": "D:\\GithubWork\\GitHubProj\\proj1\\ysccodebase\\design-patterns-singleton-pattern\\Singleton\\DesignPattern\\DesignPattern.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

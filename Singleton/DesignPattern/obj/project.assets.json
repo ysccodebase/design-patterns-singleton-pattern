@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\mydotnetproject\\designPatterns\\Singleton\\DesignPattern\\DesignPattern.csproj",
+      "projectUniqueName": "D:\\GithubWork\\GitHubProj\\proj1\\ysccodebase\\design-patterns-singleton-pattern\\Singleton\\DesignPattern\\DesignPattern.csproj",
       "projectName": "DesignPattern",
-      "projectPath": "D:\\mydotnetproject\\designPatterns\\Singleton\\DesignPattern\\DesignPattern.csproj",
+      "projectPath": "D:\\GithubWork\\GitHubProj\\proj1\\ysccodebase\\design-patterns-singleton-pattern\\Singleton\\DesignPattern\\DesignPattern.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "D:\\mydotnetproject\\designPatterns\\Singleton\\DesignPattern\\obj\\",
+      "outputPath": "D:\\GithubWork\\GitHubProj\\proj1\\ysccodebase\\design-patterns-singleton-pattern\\Singleton\\DesignPattern\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
